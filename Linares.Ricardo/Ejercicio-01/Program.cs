@@ -17,10 +17,11 @@ namespace Ejercicio_01
             int contador = 0;
             float promedio;
 
+            Console.Title = "Ejercicio 1";
 
             Console.WriteLine("Ingrese 5 Numeros: ");
-
             numero = int.Parse(Console.ReadLine());
+
             minimo = numero;
             maximo = numero;
             acumulador += numero;
