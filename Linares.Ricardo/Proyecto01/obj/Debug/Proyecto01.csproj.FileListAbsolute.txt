@@ -5,3 +5,9 @@ D:\VisualStudio\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.csprojAssemblyRe
 D:\VisualStudio\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.exe
 D:\VisualStudio\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Proyecto01\bin\Debug\Proyecto01.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Proyecto01\bin\Debug\Proyecto01.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Proyecto01\bin\Debug\Proyecto01.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.pdb

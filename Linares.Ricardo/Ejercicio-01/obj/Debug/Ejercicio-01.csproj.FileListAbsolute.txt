@@ -5,3 +5,9 @@ D:\VisualStudio\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.csprojAssemb
 D:\VisualStudio\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.exe
 D:\VisualStudio\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio-01\bin\Debug\Ejercicio-01.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio-01\bin\Debug\Ejercicio-01.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio-01\bin\Debug\Ejercicio-01.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio-01\obj\Debug\Ejercicio-01.pdb
