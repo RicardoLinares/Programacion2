@@ -1,0 +1,7 @@
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\bin\Debug\Ejercicio_09_true.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\bin\Debug\Ejercicio_09_true.exe
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\bin\Debug\Ejercicio_09_true.pdb
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\obj\Debug\Ejercicio_09_true.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\obj\Debug\Ejercicio_09_true.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\obj\Debug\Ejercicio_09_true.exe
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09_true\obj\Debug\Ejercicio_09_true.pdb

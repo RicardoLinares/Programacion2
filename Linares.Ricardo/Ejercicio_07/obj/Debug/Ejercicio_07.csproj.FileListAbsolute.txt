@@ -5,3 +5,10 @@ C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercici
 C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.exe
 C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.pdb
 C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.csprojResolveAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\bin\Debug\Ejercicio_07.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\bin\Debug\Ejercicio_07.exe
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\bin\Debug\Ejercicio_07.pdb
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.exe
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_07\obj\Debug\Ejercicio_07.pdb

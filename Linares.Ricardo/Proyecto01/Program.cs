@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entidades;
 
 namespace Proyecto01
 {
@@ -10,12 +11,13 @@ namespace Proyecto01
     {
         static void Main(string[] args)
         {
+            
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.ForegroundColor = ConsoleColor.White;
             Console.Clear();
 
             string name;
-            Console.WriteLine("hola mundo");
+            Console.WriteLine(Test.Saludar());
             Console.ReadKey();
 
             Console.Write("Ingrese su nombre : ");
