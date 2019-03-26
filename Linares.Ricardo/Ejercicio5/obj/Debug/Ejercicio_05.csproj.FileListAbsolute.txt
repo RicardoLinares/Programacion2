@@ -1,0 +1,7 @@
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\obj\Debug\Ejercicio_05.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\obj\Debug\Ejercicio_05.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\Ejercicio5\obj\Debug\Ejercicio5.pdb

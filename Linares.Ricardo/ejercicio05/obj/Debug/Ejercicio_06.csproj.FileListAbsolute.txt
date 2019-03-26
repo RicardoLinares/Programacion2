@@ -1,0 +1,6 @@
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ejercicio05\bin\Debug\ejercicio05.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ejercicio05\bin\Debug\ejercicio05.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ejercicio05\bin\Debug\ejercicio05.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ejercicio05\obj\Debug\Ejercicio_06.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ejercicio05\obj\Debug\ejercicio05.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ejercicio05\obj\Debug\ejercicio05.pdb

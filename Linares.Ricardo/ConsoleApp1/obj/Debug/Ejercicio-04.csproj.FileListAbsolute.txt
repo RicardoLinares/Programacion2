@@ -1,0 +1,7 @@
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\obj\Debug\Ejercicio-04.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\obj\Debug\Ejercicio-04.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\Programacion2\Linares.Ricardo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
