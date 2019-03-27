@@ -39,7 +39,7 @@ namespace Ejercicio_2
                 }
                 else
                 {
-                    Program.ErrorMessages("ERROR. ¡Reingresar número!");
+                    Ejercicio_02.ErrorMessages("ERROR. ¡Reingresar número!");
                     Console.Write("Ingrese un Numero: ");
                 try
                     {

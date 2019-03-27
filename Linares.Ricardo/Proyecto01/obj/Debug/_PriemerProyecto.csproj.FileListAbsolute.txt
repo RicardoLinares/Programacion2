@@ -8,3 +8,5 @@ D:\linares\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\_PriemerProyecto.c
 D:\linares\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\_PriemerProyecto.csproj.CopyComplete
 D:\linares\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.exe
 D:\linares\Programacion2\Linares.Ricardo\Proyecto01\obj\Debug\Proyecto01.pdb
+D:\linares\Programacion2\Linares.Ricardo\Proyecto01\bin\Debug\Clase_04.dll
+D:\linares\Programacion2\Linares.Ricardo\Proyecto01\bin\Debug\Clase_04.pdb
