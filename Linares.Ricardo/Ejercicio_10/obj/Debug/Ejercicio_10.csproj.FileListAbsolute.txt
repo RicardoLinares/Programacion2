@@ -1,0 +1,6 @@
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_10\bin\Debug\Ejercicio_10.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_10\bin\Debug\Ejercicio_10.exe
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_10\bin\Debug\Ejercicio_10.pdb
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_10\obj\Debug\Ejercicio_10.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_10\obj\Debug\Ejercicio_10.exe
+D:\linares\Programacion2\Linares.Ricardo\Ejercicio_10\obj\Debug\Ejercicio_10.pdb

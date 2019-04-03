@@ -16,12 +16,12 @@ namespace Ejercicio_09_true
             Console.WriteLine("Este programa crea una piramide con altura dada:\ningrese un numero:");
             numero = int.Parse(Console.ReadLine());
 
-            for(int i = 1; i < numero; i++)
+            for(int i = 1; i <= numero; i++)
             {
                 Console.WriteLine(ConstruirEscalonPiramide(i));
                 if(i == 41)
                 {
-                    Console.WriteLine("no se puede continuar la piramid:");
+                    Console.WriteLine("no se puede continuar la piramide:");
                     break;
                 }
             }

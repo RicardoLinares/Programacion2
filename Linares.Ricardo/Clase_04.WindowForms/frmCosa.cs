@@ -58,9 +58,10 @@ namespace Clase_04.WindowForms
             this.Text = "Cosa Bonita";
             Color lol = Color.Fuchsia;
             int asd;
-            asd = lol.ToArgb();
+            string newColor = "FF51382C"; // FF - A -, 51 - R, 82 - G, 2C - B; 
+            asd = int.Parse(newColor, System.Globalization.NumberStyles.HexNumber);
 
-            this.Text = asd.ToString();
+            this.Text = asd.ToString("X");
             this.BackColor = Color.FromArgb(asd);
         }
 

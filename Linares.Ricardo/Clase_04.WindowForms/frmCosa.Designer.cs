@@ -34,7 +34,7 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 42.25F);
+            this.button1.Font = new System.Drawing.Font("Comic Sans MS", 42.25F);
             this.button1.ForeColor = System.Drawing.SystemColors.Info;
             this.button1.Location = new System.Drawing.Point(103, 54);
             this.button1.Name = "button1";
