@@ -1,0 +1,16 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\Clase7.windowsForm.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\Clase7.windowsForm.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\Clase7.windowsForm.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\frmTempera.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\frmTempera.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\frmTempera.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.frmPaletas.resources
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.Properties.Resources.resources
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.csproj.GenerateResource.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.csproj.CopyComplete
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\obj\Debug\Clase7.windowsForm.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase7.windowsForm\bin\Debug\Entidades.pdb

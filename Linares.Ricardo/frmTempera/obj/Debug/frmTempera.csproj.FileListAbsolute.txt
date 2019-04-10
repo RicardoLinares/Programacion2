@@ -1,0 +1,13 @@
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\bin\Debug\frmTempera.exe.config
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\bin\Debug\frmTempera.exe
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\bin\Debug\frmTempera.pdb
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.frmTempera.resources
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.Properties.Resources.resources
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.csproj.GenerateResource.cache
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.exe
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.pdb
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\bin\Debug\Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\bin\Debug\Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\frmTempera\obj\Debug\frmTempera.csproj.CopyComplete
