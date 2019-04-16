@@ -1,6 +1,0 @@
-D:\linares\Programacion2\Linares.Ricardo\Clase_04\bin\Debug\Clase_04.dll
-D:\linares\Programacion2\Linares.Ricardo\Clase_04\bin\Debug\Clase_04.pdb
-D:\linares\Programacion2\Linares.Ricardo\Clase_04\obj\Debug\Clase_04.Entidades.csproj.CoreCompileInputs.cache
-D:\linares\Programacion2\Linares.Ricardo\Clase_04\obj\Debug\Clase_04.dll
-D:\linares\Programacion2\Linares.Ricardo\Clase_04\obj\Debug\Clase_04.pdb
-D:\linares\Programacion2\Linares.Ricardo\Clase_04\obj\Debug\Clase_04.Entidades.csprojAssemblyReference.cache

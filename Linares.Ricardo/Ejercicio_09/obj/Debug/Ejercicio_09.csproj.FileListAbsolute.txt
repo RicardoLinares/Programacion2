@@ -1,6 +1,0 @@
-D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09\bin\Debug\Ejercicio_09_true.exe.config
-D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09\bin\Debug\Ejercicio_09_true.exe
-D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09\bin\Debug\Ejercicio_09_true.pdb
-D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.CoreCompileInputs.cache
-D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09\obj\Debug\Ejercicio_09_true.exe
-D:\linares\Programacion2\Linares.Ricardo\Ejercicio_09\obj\Debug\Ejercicio_09_true.pdb

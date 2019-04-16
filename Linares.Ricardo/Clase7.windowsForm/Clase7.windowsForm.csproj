@@ -79,6 +79,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{f76891ce-984b-42a1-87c5-73a3512bca15}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
     <ProjectReference Include="..\frmTempera\frmTempera.csproj">
       <Project>{f3f38111-0f6b-45c8-87cb-d9cf7c3b5f4d}</Project>
       <Name>frmTempera</Name>

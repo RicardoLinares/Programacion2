@@ -75,7 +75,6 @@
             this.cboColor.Name = "cboColor";
             this.cboColor.Size = new System.Drawing.Size(310, 28);
             this.cboColor.TabIndex = 3;
-            this.cboColor.SelectedIndexChanged += new System.EventHandler(this.cboColor_SelectedIndexChanged);
             // 
             // txtCant
             // 

@@ -1,6 +1,0 @@
-D:\linares\Programacion2\Linares.Ricardo\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll
-D:\linares\Programacion2\Linares.Ricardo\Clase05.Entidades\bin\Debug\Clase05.Entidades.pdb
-D:\linares\Programacion2\Linares.Ricardo\Clase05.Entidades\obj\Debug\Clase05.Entidades.csprojAssemblyReference.cache
-D:\linares\Programacion2\Linares.Ricardo\Clase05.Entidades\obj\Debug\Clase05.Entidades.csproj.CoreCompileInputs.cache
-D:\linares\Programacion2\Linares.Ricardo\Clase05.Entidades\obj\Debug\Clase05.Entidades.dll
-D:\linares\Programacion2\Linares.Ricardo\Clase05.Entidades\obj\Debug\Clase05.Entidades.pdb
