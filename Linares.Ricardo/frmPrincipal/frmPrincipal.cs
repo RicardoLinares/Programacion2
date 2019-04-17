@@ -22,7 +22,6 @@ namespace frmPrincipal
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.FormClosing = 
         }
 
         private void agregarToolStripMenuItem1_Click(object sender, EventArgs e)
