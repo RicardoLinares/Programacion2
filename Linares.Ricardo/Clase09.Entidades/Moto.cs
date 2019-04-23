@@ -14,10 +14,22 @@ namespace Vehiculos
         {
             this._cilindrada = cilindrada;
         }
-
-        public string MostrarMoto()
+        public override double Precio
+        {
+            get;
+            set;
+        }
+        public override double CalcularPrecioConIva()
+        {
+            return this.Precio * 1.21;
+        }
+        protected override string Mostrar()
         {
             return base.Mostrar() + "Cilindrado: " + this._cilindrada.ToString();
+        }
+        public override string ToString()
+        {
+            return Mostrar();
         }
     }
 }

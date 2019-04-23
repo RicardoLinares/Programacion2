@@ -16,9 +16,22 @@ namespace Vehiculos
         {
             this._tara = tara;
         }
-        public string MostrarCamion()
+        public override double Precio
+        {
+            get;
+            set;
+        }
+        public override double CalcularPrecioConIva()
+        {
+            return this.Precio * 1.21;
+        }
+        protected override string Mostrar()
         {
             return base.Mostrar() + "Tara del camion: " + this._tara.ToString();
+        }
+        public override string ToString()
+        {
+            return Mostrar();
         }
     }
 }

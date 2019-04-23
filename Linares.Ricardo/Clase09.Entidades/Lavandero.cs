@@ -18,40 +18,42 @@ namespace Clase09.Entidades
         {
             get
             {
-                string vehiculos = "";
+                string vehiculosStr = "";
 
-                foreach(Vehiculo transporte in _vehiculos)
+                foreach (Vehiculo transporte in _vehiculos)
                 {
-                    if(transporte is Moto)
-                    {
-                        vehiculos += ((Moto)transporte).MostrarMoto();
-                    }
-                    else if(transporte is Auto)
-                    {
-                        vehiculos += ((Auto)transporte).MostrarAuto();
-                    }
-                    else  if(transporte is Camion)
-                    {
-                        vehiculos +=  ((Camion)transporte).MostrarCamion();
-                    }
-                    vehiculos += "\n";
+                    vehiculosStr += transporte;
+                    vehiculosStr += "\n\n";
+                    //    if(transporte is Moto)
+                    //    {
+                    //        vehiculos += ((Moto)transporte).MostrarMoto();
+                    //    }
+                    //    else if(transporte is Auto)
+                    //    {
+                    //        vehiculos += ((Auto)transporte).MostrarAuto();
+                    //    }
+                    //    else  if(transporte is Camion)
+                    //    {
+                    //        vehiculos +=  ((Camion)transporte).MostrarCamion();
+                    //    }
+                    //    vehiculos += "\n";
                 }
-                return vehiculos;
+                    return vehiculosStr;
             }
         }
         public string MiLavandero
         {
             get
             {
-                string infoLavandero = "";
-                infoLavandero += "Precio por Auto: " + this._precioAuto.ToString()+ "\n";
+                string infoLavandero;
+                infoLavandero = "Precio por Auto: " + this._precioAuto.ToString()+"\n";
                 infoLavandero += "Precio por Moto: " + this._precioMoto.ToString()+ "\n";
-                infoLavandero += "Precio por Camion: " + this._precioCamion.ToString() + "\n";
-                infoLavandero += this.MiLavandero;
+                infoLavandero += "Precio por Camion: " + this._precioCamion.ToString()+ "\n";
+                infoLavandero += this.Vehiculos + "\n";
                 return infoLavandero;
             }
         }
-        public Lavandero(float precioAuto, float precioCamion, float precioMoto)
+        public Lavandero(float precioAuto, float precioCamion, float precioMoto) : this()
         {
             this._precioAuto = precioAuto;
             this._precioCamion = precioCamion;
@@ -98,7 +100,12 @@ namespace Clase09.Entidades
 
         public double MostrarTotalFacturado()
         {
-            return MostrarTotalFacturado(EVehiculos.Generico);
+            double resultado = 0;
+            resultado += MostrarTotalFacturado(EVehiculos.Auto);
+            resultado += MostrarTotalFacturado(EVehiculos.Camion);
+            resultado += MostrarTotalFacturado(EVehiculos.Moto);
+
+            return resultado;
         }
 
         public double MostrarTotalFacturado(EVehiculos tipoDeVehiculo)
@@ -108,22 +115,31 @@ namespace Clase09.Entidades
 
             foreach (Vehiculo cliente in this._vehiculos)
             {
-                if (cliente is Auto)
+                if (cliente is Auto && tipoDeVehiculo == EVehiculos.Auto)
                 {
                         resultado += _precioAuto;
                 }
-                else if (cliente is Moto)
+                else if (cliente is Moto && tipoDeVehiculo == EVehiculos.Moto)
                 {
                         resultado += _precioMoto;
 
                 }
-                else if (cliente is Camion)
+                else if (cliente is Camion && tipoDeVehiculo == EVehiculos.Camion)
                 {
                         resultado += _precioCamion;
                 }
             }
 
             return resultado;
+        }
+        public static int OrdenarVehiculosPorPatente(Vehiculo vehiculoA, Vehiculo vehiculoB)
+        {
+            return String.Compare(vehiculoA.Patente, vehiculoB.Patente);
+        }
+
+        public int OrdenarVehiculosPorMarca(Vehiculo vehiculoA, Vehiculo vehiculoB)
+        {
+            return String.Compare(vehiculoA.Marca.ToString(), vehiculoB.Marca.ToString());
         }
     }
 }

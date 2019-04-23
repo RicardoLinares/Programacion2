@@ -14,10 +14,28 @@ namespace Vehiculos
         {
             this._cantAsientos = cantidadAsientos;
         }
-        public string MostrarAuto()
+        public override double Precio
+        {
+            get;
+            set;
+        }
+        public override double CalcularPrecioConIva()
+        {
+            return this.Precio * 1.21;
+        }
+        //public string MostrarAuto()
+        //{
+        //    return base.Mostrar() + "Cantidad de Asientos: " + this._cantAsientos.ToString();
+        //}
+
+        protected override string Mostrar()
         {
             return base.Mostrar() + "Cantidad de Asientos: " + this._cantAsientos.ToString();
         }
 
+        public override string ToString()
+        {
+            return Mostrar();
+        }
     }
 }

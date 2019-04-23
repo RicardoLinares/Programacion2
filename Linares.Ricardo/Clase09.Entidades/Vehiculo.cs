@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace Vehiculos
 {
-    public class Vehiculo
+    // las clases abstractas no tendran instancias de las mismas
+    // se cosidera abstracta a una clase que es un concepto intangible o valga a redundancia abstracto
+    // puede contener miembros abstractos. metodos y/o propiedades. solo tienen la firma, no la implementacion
+    public abstract class Vehiculo
     {
         protected string _patente;
         protected EMarca _marca;
         protected Byte _cantRuedas;
-
+        public abstract double Precio
+        { get; set; }
+        public abstract double CalcularPrecioConIva();
         public string Patente
         {
             get
@@ -35,9 +40,9 @@ namespace Vehiculos
             this._marca = marca;
         }
 
-        protected string Mostrar()
+        protected virtual string Mostrar()
         {
-            return "Patente: " + this._patente + "\nMarca: " + this._patente.ToString() + "\nCantidad de ruedas: " + this._cantRuedas.ToString() + "\n"; 
+            return "Patente: " + this._patente + "\nMarca: " + this._marca.ToString() + "\nCantidad de ruedas: " + this._cantRuedas.ToString() + "\n"; 
         }
 
         public static bool operator ==(Vehiculo vehiculoA, Vehiculo vehiculoB)
@@ -56,6 +61,23 @@ namespace Vehiculos
         public static bool operator !=(Vehiculo vehiculoA, Vehiculo vehiculoB)
         {
             return !(vehiculoA == vehiculoB);
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool respuesta = false;
+            if(obj is Vehiculo)
+            {
+                if((Vehiculo)obj == this)
+                {
+                    respuesta = true;
+                }
+            }
+            return respuesta;
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
     }
 }
