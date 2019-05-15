@@ -1,0 +1,10 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\bin\Debug\Clase15_WindowsForm.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\bin\Debug\Clase15_WindowsForm.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\bin\Debug\Clase15_WindowsForm.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.FrmPrincipal.resources
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.Properties.Resources.resources
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.csproj.GenerateResource.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase15_WindowsForm\obj\Debug\Clase15_WindowsForm.pdb
