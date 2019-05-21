@@ -75,7 +75,7 @@ namespace Clase15_WindowsForm
             {
                 this._openFileDialog.DefaultExt = "*.txt";
                 this._openFileDialog.AddExtension = true;
-                this._openFileDialog.Filter = "txt files (*.txt)|*.txt";
+                this._openFileDialog.Filter = "Text files (*.txt)|*.txt";
                 this._openFileDialog.FilterIndex = 1;
                 DialogResult n = this._openFileDialog.ShowDialog();
                 if (n == DialogResult.OK)
