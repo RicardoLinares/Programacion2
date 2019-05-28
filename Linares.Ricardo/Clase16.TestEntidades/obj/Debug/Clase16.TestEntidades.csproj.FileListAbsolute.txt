@@ -1,0 +1,10 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\bin\Debug\Clase16.TestEntidades.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\bin\Debug\Clase16.TestEntidades.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\bin\Debug\Clase16.TestEntidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\bin\Debug\Clase16_Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\bin\Debug\Clase16_Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\obj\Debug\Clase16.TestEntidades.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\obj\Debug\Clase16.TestEntidades.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\obj\Debug\Clase16.TestEntidades.csproj.CopyComplete
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\obj\Debug\Clase16.TestEntidades.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase16.TestEntidades\obj\Debug\Clase16.TestEntidades.pdb
