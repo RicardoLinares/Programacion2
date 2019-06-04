@@ -74,7 +74,7 @@ namespace Clase16.Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Deposito de {0} Capacidad\n", this._cantidad);
+            sb.AppendFormat("Deposito de {0} con {1} de Capacidad\n",typeof(T).Name, this._cantidad);
             foreach (T T in this._lista)
             {
                 sb.AppendFormat("{0}", T.ToString());

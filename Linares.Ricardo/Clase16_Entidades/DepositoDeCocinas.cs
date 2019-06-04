@@ -33,7 +33,7 @@ namespace Clase16.Entidades
             bool respuesta = false;
             foreach (Cocina b in deposito._lista)
             {
-                if (a.Equals(b))
+                if (cocina.Equals(b))
                 {
                     respuesta = true;
                 }

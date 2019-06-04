@@ -33,7 +33,7 @@ namespace Clase16.Entidades
             bool respuesta = false;
             foreach (Auto b in deposito._lista)
             {
-                if (a.Equals(b))
+                if (auto.Equals(b))
                 {
                     respuesta = true;
                 }

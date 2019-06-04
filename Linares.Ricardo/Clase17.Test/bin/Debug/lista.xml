@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHumano xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Humano>
+    <Dni>1</Dni>
+  </Humano>
+  <Humano xsi:type="Persona">
+    <Dni>2</Dni>
+  </Humano>
+  <Humano xsi:type="Profesor">
+    <Dni>3</Dni>
+    <Titulo>Tecnico en Sistemas informatico</Titulo>
+  </Humano>
+  <Humano xsi:type="Alumno">
+    <Dni>4</Dni>
+    <PATH>lolazo.xml</PATH>
+    <Legajo>9000</Legajo>
+  </Humano>
+</ArrayOfHumano>
