@@ -1,0 +1,11 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\bin\Debug\Clase19.Test.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\bin\Debug\Clase19.Test.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\bin\Debug\Clase19.Test.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\bin\Debug\Clase19.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\bin\Debug\Clase19.Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\bin\Debug\Clase19.Entidades.dll.config
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\obj\Debug\Clase19.Test.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\obj\Debug\Clase19.Test.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\obj\Debug\Clase19.Test.csproj.CopyComplete
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\obj\Debug\Clase19.Test.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Test\obj\Debug\Clase19.Test.pdb

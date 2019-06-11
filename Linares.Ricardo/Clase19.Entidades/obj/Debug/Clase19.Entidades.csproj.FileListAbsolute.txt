@@ -1,0 +1,7 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\bin\Debug\Clase19.Entidades.dll.config
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\bin\Debug\Clase19.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\bin\Debug\Clase19.Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\obj\Debug\Clase19.Entidades.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\obj\Debug\Clase19.Entidades.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\obj\Debug\Clase19.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase19.Entidades\obj\Debug\Clase19.Entidades.pdb
