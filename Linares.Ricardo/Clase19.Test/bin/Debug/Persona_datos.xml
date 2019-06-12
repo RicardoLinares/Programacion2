@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Personas>
+    <id>34</id>
+    <nombre>Marcos</nombre>
+    <apellido>Vitali</apellido>
+    <edad>40</edad>
+  </Personas>
+  <Personas>
+    <id>35</id>
+    <nombre>Marcos</nombre>
+    <apellido>Vitali</apellido>
+    <edad>40</edad>
+  </Personas>
+  <Personas>
+    <id>36</id>
+    <nombre>Mariano</nombre>
+    <apellido>Vitali</apellido>
+    <edad>20</edad>
+  </Personas>
+  <Personas>
+    <id>37</id>
+    <nombre>Facundo</nombre>
+    <apellido>Mayordomo</apellido>
+    <edad>19</edad>
+  </Personas>
+  <Personas>
+    <id>38</id>
+    <nombre>Ana</nombre>
+    <apellido>Suarez</apellido>
+    <edad>45</edad>
+  </Personas>
+  <Personas>
+    <id>39</id>
+    <nombre>Tito</nombre>
+    <apellido>Manazas</apellido>
+    <edad>69</edad>
+  </Personas>
+  <Personas>
+    <id>40</id>
+    <nombre>Tito</nombre>
+    <apellido>Manazas</apellido>
+    <edad>69</edad>
+  </Personas>
+</DocumentElement>

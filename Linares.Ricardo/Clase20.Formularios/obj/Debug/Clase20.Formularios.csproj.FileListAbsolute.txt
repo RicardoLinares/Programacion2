@@ -1,0 +1,14 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\bin\Debug\Clase20.Formularios.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\bin\Debug\Clase20.Formularios.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\bin\Debug\Clase20.Formularios.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\bin\Debug\Clase19.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\bin\Debug\Clase19.Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\bin\Debug\Clase19.Entidades.dll.config
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.FrmListado.resources
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.Properties.Resources.resources
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.csproj.GenerateResource.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.csproj.CopyComplete
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.exe
+D:\linares\Programacion2\Linares.Ricardo\Clase20.Formularios\obj\Debug\Clase20.Formularios.pdb

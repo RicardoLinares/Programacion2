@@ -35,11 +35,86 @@ namespace Clase19.Entidades
                 {
                     respuesta = true;
                 }
-                this._connecxion.Close();
             }
             catch(Exception e)
             {
                 Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                if(this._connecxion.State == ConnectionState.Open)
+                {
+                    this._connecxion.Close();
+                }
+            }
+            return respuesta;
+        }
+
+        public bool EliminarPersona(int id)
+        {
+            bool respuesta = false;
+            //INIT DEL COMANDO
+            this._comando = new SqlCommand();
+            //ESTABLECER LA CONECCION
+            this._comando.Connection = this._connecxion;
+            // ESTABLECER TYPO DE COMANDO
+            this._comando.CommandType = CommandType.Text;
+            // EL COMANDO(EN CASO DE COMANDO TEXTO)
+            this._comando.CommandText = "Delete [Padron].[dbo].[Personas] Where id = "+ id.ToString();
+            try
+            {
+                this._connecxion.Open();
+                int cantidad = this._comando.ExecuteNonQuery();
+                if (cantidad > 0)
+                {
+                    respuesta = true;
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                if (this._connecxion.State == ConnectionState.Open)
+                {
+                    this._connecxion.Close();
+                }
+            }
+            return respuesta;
+        }
+        //Update [Padron].[dbo].[Personas] SET nombre = 'Nombre', apellido = 'Apellido', edad = 69 Where id = 22
+
+        public bool ModificarPersona(Persona persona)
+        {
+            bool respuesta = false;
+            //INIT DEL COMANDO
+            this._comando = new SqlCommand();
+            //ESTABLECER LA CONECCION
+            this._comando.Connection = this._connecxion;
+            // ESTABLECER TYPO DE COMANDO
+            this._comando.CommandType = CommandType.Text;
+            // EL COMANDO(EN CASO DE COMANDO TEXTO)
+            this._comando.CommandText = "UPDATE [Padron].[dbo].[Personas] SET nombre = '" + persona._nombre + "', apellido = '"+ persona._apellido +"', edad = "+ persona._edad+" Where id = "+persona._id;
+            try
+            {
+                this._connecxion.Open();
+                int cantidad = this._comando.ExecuteNonQuery();
+                if (cantidad > 0)
+                {
+                    respuesta = true;
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                if (this._connecxion.State == ConnectionState.Open)
+                {
+                    this._connecxion.Close();
+                }
             }
             return respuesta;
         }
@@ -77,6 +152,36 @@ namespace Clase19.Entidades
 
             return personas;
         }
+        public DataTable TraerTablaPersonas()
+        {
+            // Data table es de system.data;
+            DataTable personas = new DataTable("Personas");
+            //INIT DEL COMANDO
+            this._comando = new SqlCommand();
+            //ESTABLECER LA CONECCION
+            this._comando.Connection = this._connecxion;
+            // ESTABLECER TYPO DE COMANDO
+            this._comando.CommandType = CommandType.Text;
+            // EL COMANDO(EN CASO DE COMANDO TEXTO)
+            this._comando.CommandText = "SELECT id, nombre, apellido,edad FROM[Padron].[dbo].[Personas] ";
 
+            try
+            {
+                this._connecxion.Open();
+                SqlDataReader sqlData = this._comando.ExecuteReader();
+                personas.Load(sqlData);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                if(this._connecxion.State == ConnectionState.Open)
+                    this._connecxion.Close();
+            }
+
+            return personas;
+        }
     }
 }
