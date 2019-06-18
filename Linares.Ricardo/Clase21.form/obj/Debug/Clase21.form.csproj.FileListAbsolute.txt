@@ -1,0 +1,11 @@
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\bin\Debug\Clase21.form.exe.config
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\bin\Debug\Clase21.form.exe
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\bin\Debug\Clase21.form.pdb
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.csprojAssemblyReference.cache
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.FrmTest.resources
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.Properties.Resources.resources
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.csproj.GenerateResource.cache
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.csproj.CoreCompileInputs.cache
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.exe
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.pdb
+D:\Linares\Programacion2\Linares.Ricardo\Clase21.form\obj\Debug\Clase21.form.FrmTest2.resources
