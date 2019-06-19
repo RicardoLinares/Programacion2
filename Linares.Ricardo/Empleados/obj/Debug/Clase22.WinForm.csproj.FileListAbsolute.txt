@@ -1,0 +1,13 @@
+D:\linares\Programacion2\Linares.Ricardo\Empleados\bin\Debug\Empleados.exe.config
+D:\linares\Programacion2\Linares.Ricardo\Empleados\bin\Debug\Empleados.exe
+D:\linares\Programacion2\Linares.Ricardo\Empleados\bin\Debug\Empleados.pdb
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Clase22.WinForm.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Empleados.Empleados.resources
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Clase22.WinForm.csproj.GenerateResource.cache
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Clase22.WinForm.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Empleados.exe
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Empleados.pdb
+D:\linares\Programacion2\Linares.Ricardo\Empleados\bin\Debug\Clase22.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Empleados\bin\Debug\Clase22.Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Empleados\obj\Debug\Clase22.WinForm.csproj.CopyComplete

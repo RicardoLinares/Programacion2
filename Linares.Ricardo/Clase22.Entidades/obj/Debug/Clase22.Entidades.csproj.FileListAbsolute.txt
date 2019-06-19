@@ -1,0 +1,6 @@
+D:\linares\Programacion2\Linares.Ricardo\Clase22.Entidades\bin\Debug\Clase22.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase22.Entidades\bin\Debug\Clase22.Entidades.pdb
+D:\linares\Programacion2\Linares.Ricardo\Clase22.Entidades\obj\Debug\Clase22.Entidades.csprojAssemblyReference.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase22.Entidades\obj\Debug\Clase22.Entidades.csproj.CoreCompileInputs.cache
+D:\linares\Programacion2\Linares.Ricardo\Clase22.Entidades\obj\Debug\Clase22.Entidades.dll
+D:\linares\Programacion2\Linares.Ricardo\Clase22.Entidades\obj\Debug\Clase22.Entidades.pdb
